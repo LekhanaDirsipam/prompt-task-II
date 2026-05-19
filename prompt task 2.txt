@@ -1,0 +1,32 @@
+Create a modern presentation slide design for a project titled 
+"AI Content Marketing using UGC Ads".
+
+Design requirements:
+- Background: Dark blue gradient with subtle texture
+- Add creative elements like light bulb icons, pins, stickers
+- Top label: "Task 2" in a yellow rounded badge
+- Main heading: "AI Content Marketing using UGC Ads" in bold black box
+- Center card with thick yellow border and white inner section
+
+Content inside card:
+
+1. Tools:
+ChatGPT, Claude, Gemini, Runway, Pika, CapCut, Google Docs, MS Word, GitHub
+
+2. Skills Gained:
+AI-driven marketing, UGC scripting, hooks psychology, prompt engineering, brand voice adaptation
+
+3. Key Features:
+- Generate UGC-style ad scripts
+- Create multiple hooks (scroll-stopping)
+- Write problem-solution CTA ads
+- Adapt content for platforms (Instagram, Facebook, YouTube Shorts)
+- Match brand tone (D2C, SaaS, creator brand)
+- Focus on conversion
+
+4. Deliverable:
+Complete AI-generated UGC Ad Content Pack with scripts, hooks, CTAs, captions
+
+- Add "Full Task Details" button at bottom
+- Use bold colors: yellow, blue, black, white
+- Make design modern, creative, and presentation-ready
